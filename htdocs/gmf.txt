@@ -1,0 +1,9 @@
+github markdown flavorメモ
+"右にスライド追加" --
+"下にスライド追加" ---
+"色" <span style="color:red:"></span>
+"画像の追加" ![sample](./img/sample.jpg) 
+"原稿メモ" <aside class="notes"></aside>
+"順番に出現させる"<span class="fragment">チラシ配り</span> (fragement [fade-in|roll-in]) 
+"背景動画"<section data-background-video="./video/sample.mov">
+
